@@ -1,2 +1,16 @@
-# AgroPath
-AgroPath is a Flutter-based Android application built to connect farmers and consumers through a seamless, role-based platform. This app is designed to empower farmers by providing a digital space to showcase and sell their crops while enabling consumers to browse and purchase fresh, high-quality produce directly from local farmers.
+# agropath
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
